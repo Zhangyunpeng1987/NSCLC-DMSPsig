@@ -36,8 +36,8 @@ lung cancer (NSCLC) and to construct a prognostic model (DMSP.sig).
 The scripts are organized by figure to facilitate reproducibility. Each folder contains the code used to generate the corresponding panels in the manuscript.
 
 For example:
-- `code/Figure1/` contains scripts for Figure 1 and supplementary Figure 1.
-- `code/Figure2/` contains scripts for Figure 1 and supplementary Figure 2.
+- `code/Figure1/` contains scripts for Figure 1
+- `code/FigureS1/` contains scripts for supplementary Figure 1.
 - Subsequent folders correspond to the remaining figures.
 
 Users can follow these scripts to reproduce the results step by step.
