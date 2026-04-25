@@ -51,31 +51,43 @@ NSCLC-DMSPsig/
 ├── LICENSE
 ├── code/
 │   ├── Figure1/
-│   │   ├── Fig1_main.R
-│   │   └── Fig1_supplementary.R
+│   │   ├── Figure1.R
 │   │
 │   ├── Figure2/
-│   │   ├── Fig2_main.R
-│   │   └── Fig2_supplementary.R
+│   │   ├── Figure2.R
 │   │
 │   ├── Figure3/
-│   │   ├── Fig3_main.R
-│   │   └── Fig3_supplementary.R
+│   │   ├── Figure3.R
 │   │
 │   ├── Figure4/
-│   │   ├── Fig4_main.R
-│   │   └── Fig4_supplementary.R
+│   │   ├── Figure4.R
 │   │
 │   ├── Figure5/
-│   │   ├── Fig5_main.R
-│   │   └── Fig5_supplementary.R
-│   │
-│   ├── Figure6/
-│   │   └── Fig6_supplementary.R
+│   │   ├── Figure5.R
 │   │
 │   ├── Figure7/
-│   │   ├── Fig7_main.R
-│   │   └── Fig7_supplementary.R
+│   │   ├── Figure7.R
+│   │
+│   ├── FigureS1/
+│   │   ├── FigureS1.R
+│   │
+│   ├── FigureS2/
+│   │   ├── FigureS2.R
+│   │
+│   ├── FigureS3/
+│   │   ├── FigureS3.R
+│   │
+│   ├── FigureS4/
+│   │   ├── FigureS4.R
+│   │
+│   ├── FigureS5/
+│   │   ├── FigureS5.R
+│   │
+│   ├── FigureS6/
+│   │   ├── FigureS6.R
+│   │
+│   ├── FigureS7/
+│   │   ├── FigureS7.R
 │
 └── sessionInfo.txt
 
