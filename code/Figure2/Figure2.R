@@ -7,7 +7,7 @@ library(ggplot2)
 library(tidyverse)
 setwd("./NSCLC/Figure/figure2/")
 rm(list = ls())
-TIME <- readRDS(file = "E:/NSCLC/Figure/figure1/TIME.rds")
+TIME <- readRDS(file = "./NSCLC/Figure/figure1/TIME.rds")
 sce <- TIME
 #remove cell populations with low cell counts, low frequencies, or unidentified cell populations
 length(table(sce$subcluster))
