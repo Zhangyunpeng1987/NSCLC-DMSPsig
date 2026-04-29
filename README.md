@@ -108,7 +108,7 @@ Due to file size limitations, raw datasets are not included in this repository.
 
 ## Requirements
 
-R = 4.4.2
+R = 4.4.1
 
 Packages: Seurat, harmony, GSVA, glmnet, CellChat, scMetabolism, decoupleR, copykat,
 infercnv, oncoPredict
